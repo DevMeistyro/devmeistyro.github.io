@@ -3,7 +3,8 @@ layout: post
 title: Original Posts
 ---
 
-Here are the original posts for the template of the site's theme. 
+Here are the original posts for the original template of this site's theme.
+[Here is the theme's github page.](https://github.com/LeNPaul/Lagrange)
 
 # About The Author Original - 
 Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
