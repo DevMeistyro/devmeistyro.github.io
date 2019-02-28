@@ -4,6 +4,7 @@ title: Original Posts
 ---
 
 Here are the original posts for the original template of this site's theme.
+
 [Here is the theme's github page.](https://github.com/LeNPaul/Lagrange)
 
 # About The Author Original - 
